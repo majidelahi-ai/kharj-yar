@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">خرج یار</string>
+    <string name="title_activity_main">خرج یار</string>
+    <string name="package_name">ir.kharjyar.finance</string>
+    <string name="custom_url_scheme">ir.kharjyar.finance</string>
+</resources>
