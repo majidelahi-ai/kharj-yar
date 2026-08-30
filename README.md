@@ -63,7 +63,7 @@ npm run build
 git init
 git add .
 git commit -m "خرج یار v1.0.0"
-git remote add origin https://github.com/majidelahi-ai/-.git
+git remote add origin https://github.com/majidelahi-ai/kharj-yar.git
 git push -u origin main
 ```
 
